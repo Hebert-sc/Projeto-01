@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Meu Drive\\SENAI DEVs\\3 SEMESTRE\\Desenvolvimento Sistemas 2\\VendaPrancha\\VendaPrancha.csproj": {}
+    "C:\\Users\\hebert.s\\Desktop\\SENAI\\Projeto01\\Projeto-01\\VendaPrancha.csproj": {}
   },
   "projects": {
-    "D:\\Meu Drive\\SENAI DEVs\\3 SEMESTRE\\Desenvolvimento Sistemas 2\\VendaPrancha\\VendaPrancha.csproj": {
+    "C:\\Users\\hebert.s\\Desktop\\SENAI\\Projeto01\\Projeto-01\\VendaPrancha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Meu Drive\\SENAI DEVs\\3 SEMESTRE\\Desenvolvimento Sistemas 2\\VendaPrancha\\VendaPrancha.csproj",
+        "projectUniqueName": "C:\\Users\\hebert.s\\Desktop\\SENAI\\Projeto01\\Projeto-01\\VendaPrancha.csproj",
         "projectName": "VendaPrancha",
-        "projectPath": "D:\\Meu Drive\\SENAI DEVs\\3 SEMESTRE\\Desenvolvimento Sistemas 2\\VendaPrancha\\VendaPrancha.csproj",
+        "projectPath": "C:\\Users\\hebert.s\\Desktop\\SENAI\\Projeto01\\Projeto-01\\VendaPrancha.csproj",
         "packagesPath": "C:\\Users\\hebert.s\\.nuget\\packages\\",
-        "outputPath": "D:\\Meu Drive\\SENAI DEVs\\3 SEMESTRE\\Desenvolvimento Sistemas 2\\VendaPrancha\\obj\\",
+        "outputPath": "C:\\Users\\hebert.s\\Desktop\\SENAI\\Projeto01\\Projeto-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hebert.s\\AppData\\Roaming\\NuGet\\NuGet.Config"

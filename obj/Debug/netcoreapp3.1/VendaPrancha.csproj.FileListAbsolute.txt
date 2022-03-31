@@ -36,3 +36,41 @@ D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\VendaPrancha\obj\D
 D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\VendaPrancha\obj\Debug\netcoreapp3.1\VendaPrancha.csproj.CopyComplete
 D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\VendaPrancha\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
 D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\VendaPrancha\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.csprojAssemblyReference.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.AssemblyInfoInputs.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.AssemblyInfo.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.csproj.CoreCompileInputs.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.RazorAssemblyInfo.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.RazorAssemblyInfo.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.dll
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.pdb
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.exe
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.deps.json
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.runtimeconfig.json
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.runtimeconfig.dev.json
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.dll
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.pdb
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.Views.dll
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\bin\Debug\netcoreapp3.1\VendaPrancha.Views.pdb
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.TagHelpers.input.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.TagHelpers.output.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.RazorCoreGenerate.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.RazorTargetAssemblyInfo.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.RazorTargetAssemblyInfo.cs
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.Views.pdb
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\staticwebassets\VendaPrancha.StaticWebAssets.Manifest.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\staticwebassets\VendaPrancha.StaticWebAssets.xml
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.genruntimeconfig.cache
+C:\Users\hebert.s\Desktop\SENAI\Projeto01\Projeto-01\obj\Debug\netcoreapp3.1\VendaPrancha.csproj.CopyComplete
