@@ -1,0 +1,13 @@
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.exe
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.deps.json
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.runtimeconfig.json
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.runtimeconfig.dev.json
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.dll
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.pdb
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.csprojAssemblyReference.cache
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.AssemblyInfoInputs.cache
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.AssemblyInfo.cs
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.csproj.CoreCompileInputs.cache
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.dll
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.pdb
+D:\Meu Drive\SENAI DEVs\3 SEMESTRE\Desenvolvimento Sistemas 2\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.genruntimeconfig.cache
