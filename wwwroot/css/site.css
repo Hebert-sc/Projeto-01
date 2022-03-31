@@ -1,0 +1,155 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.container{
+  
+
+  height: auto;
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+  
+}
+
+.nav-item{
+  font-style: normal;
+  font-size: 30px;
+  font-weight: 400;
+  
+}
+.nav-link-text-dark:hover{
+  color: #a11bc2;
+}
+
+.navbar-brand{
+  
+  font-size: 50px;
+
+}
+nav{
+   position: absolute;
+   
+    margin: 20px 20px 20px;
+    padding: 100px 20px;
+    
+   
+}
+.card-img-top{
+  
+  width: 282px;
+  height: 250px;
+  box-sizing: border-box;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  
+}
+.cards{
+  position: relative;
+  top: 90px;
+ 
+
+}
+.cards #card-1, #card-2, #card-3, #card-4{
+  
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 2%;
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 15px;
+  width: 284px;
+}
+#logo{
+  width: 200px;
+  height: 180px;
+}
+#logo-rodape{
+  width: 20px;
+}
+.rodape {
+  text-align: center;
+}
+
+.principal{
+  width: 600px;
+  margin: 0 auto;
+}
+form{
+  margin: 80px 0;
+}
+form label, form p{
+  display: block;
+ 
+  margin-bottom: 10px;
+}
+
+
+
